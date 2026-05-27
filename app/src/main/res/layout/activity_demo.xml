@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12sp"
+        android:layout_marginTop="28dp"
+        android:layout_marginRight="12sp"
+        android:gravity="center"
+        android:text="@string/welcome_to_childopedia"
+        android:textColor="@color/dark"
+        android:textSize="35sp"
+        android:id="@+id/txtFirst"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtFirst"
+        android:gravity="center"
+        android:layout_marginTop="27dp"
+        android:text="@string/best_place_child_education"
+        android:textColor="@color/dark"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="140dp"
+        android:layout_marginRight="100dp"
+        android:src="@drawable/cloud1" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="300dp"
+        android:layout_marginTop="230dp"
+
+        android:src="@drawable/cloud2" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/girl" />
+
+    <Button
+        android:layout_width="284dp"
+        android:layout_height="59dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="450dp"
+        android:backgroundTint="@color/dark"
+        android:src="@drawable/signup"
+        android:text="@string/sign_in_user"
+        android:id="@+id/btnSignup"
+        android:textSize="20sp" />
+
+    <Button
+        android:layout_width="284dp"
+        android:layout_height="59dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:backgroundTint="@color/dark"
+        android:src="@drawable/signup"
+        android:text="@string/sign_in_admin"
+        android:id="@+id/btnSignup1"
+        android:layout_below="@+id/btnSignup"
+        android:textSize="20sp" />
+    <Button
+        android:id="@+id/SelectLanguage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/dark"
+        android:text="@string/select_language"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="380dp"/>
+
+
+    <!--    <TextView-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_below="@+id/btnSignup"-->
+    <!--        android:gravity="center"-->
+    <!--        android:text="Already have an account?"-->
+    <!--        android:textColor="@color/white"-->
+    <!--        android:textSize="15sp" />-->
+
+    <!--    <TextView-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginLeft="272dp"-->
+    <!--        android:layout_below="@+id/btnSignup"-->
+    <!--        android:text="Login"-->
+    <!--        android:textColor="@color/black"-->
+    <!--        android:textSize="15dp"-->
+    <!--        android:textStyle="bold" />-->
+
+
+</RelativeLayout>

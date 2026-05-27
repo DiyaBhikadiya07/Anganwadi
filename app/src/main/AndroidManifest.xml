@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+    <uses-permission android:name="android.permission.READ_MEDIA_DOCUMENT" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bg10"
+        android:label="Childopedia"
+        android:largeHeap="true"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name="com.example.anganwadi.User.UpdatePasswordActivity"
+            android:exported="true"
+            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="anganwadi" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.example.anganwadi.Admin.StudentDetailsActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Material3.DayNight.NoActionBar" />
+
+        <activity
+            android:name="com.example.anganwadi.Admin.TotalBloodDetails"
+            android:exported="false"
+            android:theme="@style/Theme.Material3.DayNight.NoActionBar" />
+
+        <activity
+            android:name="com.example.anganwadi.Admin.StaffProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.anganwadi.Admin.NutritionDataActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.anganwadi.Admin.AddStaff"
+            android:exported="false" />
+        <activity
+            android:name="com.example.anganwadi.Admin.AddStudent"
+            android:exported="false" />
+        <activity
+            android:name="com.example.anganwadi.Admin.TotalStaff"
+            android:exported="false"
+            android:theme="@style/Theme.Material3.DayNight.NoActionBar" />
+        <activity
+            android:name="com.example.anganwadi.TotalStudent"
+            android:exported="false"
+            android:theme="@style/Theme.Material3.DayNight.NoActionBar" />
+        <activity
+            android:name="com.example.anganwadi.Admin.AdminLogin"
+            android:exported="false" />
+        <activity
+            android:name="com.example.anganwadi.Admin.AdminDashboard"
+            android:exported="false" />
+        <activity
+            android:name="com.example.anganwadi.User.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.anganwadi.Demo"
+            android:exported="false" />
+        <activity
+            android:name="com.example.anganwadi.User.BloodDonationActivity"
+            android:theme="@style/ToolbarTheme" />
+        <activity
+            android:name="com.example.anganwadi.User.TeacherInfoActivity"
+            android:exported="false"
+            android:theme="@style/ToolbarTheme" />
+        <activity
+            android:name="com.example.anganwadi.User.TeacherDetailActivity"
+            android:exported="false"
+            android:theme="@style/ToolbarTheme" />
+        <activity
+            android:name="com.example.anganwadi.User.NoticeUserActivity"
+            android:exported="false"
+            android:theme="@style/ToolbarTheme" />
+        <activity
+            android:name="com.example.anganwadi.Admin.NoticeAdminActivity"
+            android:exported="false"
+            android:theme="@style/ToolbarTheme" />
+        <activity
+            android:name="com.example.anganwadi.User.ChildCareActivity"
+            android:theme="@style/ToolbarTheme" />
+        <activity
+            android:name="com.example.anganwadi.User.NewsActivity"
+            android:theme="@style/ToolbarTheme" />
+        <activity android:name="com.example.anganwadi.User.ReportActivity" />
+        <activity android:name="com.example.anganwadi.User.ResetPasswordActivity" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name="com.example.anganwadi.User.MapsActivity"
+            android:label="@string/title_activity_maps" />
+
+        <activity
+            android:name="com.example.anganwadi.User.NearbyCentersActivity"
+            android:label="Nearby Centers" />
+
+        <activity
+            android:name="com.example.anganwadi.Admin.NutritionActivity"
+            android:theme="@style/ToolbarTheme" />
+        <activity
+            android:name="com.example.anganwadi.User.RegisterActivity"
+            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
+        <activity
+            android:name="com.example.anganwadi.User.LoginActivity"
+            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
+        <activity
+            android:name="com.example.anganwadi.SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.anganwadi.MainActivity"
+            android:theme="@style/Theme.MaterialComponents.NoActionBar" />
+    </application>
+
+</manifest>

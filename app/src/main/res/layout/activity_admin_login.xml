@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/bg4"
+    tools:context="com.example.anganwadi.User.LoginActivity"
+    >
+
+    <TextView
+        android:id="@+id/txtloginAdmin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:gravity="center"
+        android:text="@string/login_heading"
+        android:textStyle="bold"
+        android:textColor="@color/dark"
+        android:textSize="35sp" />
+
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/usernameAdmin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/username"
+        app:startIconDrawable="@drawable/ic_baseline_account_circle_24"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        app:hintTextColor="@color/dark"
+        android:textColorHint="@color/dark"
+        android:layout_below="@+id/txtloginAdmin"
+        style="@style/LoginTextInputLayoutStyle"
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/edtUsernameAdmin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:maxLines="1"
+            />
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/passwordAdmin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/usernameAdmin"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:textColorHint="@color/dark"
+        android:hint="@string/password"
+        app:hintTextColor="@color/dark"
+        app:passwordToggleEnabled="true"
+        style="@style/LoginTextInputLayoutStyle"
+        app:startIconDrawable="@drawable/ic_baseline_lock_24"
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/edtPasswordAdmin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:maxLines="1"/>
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+
+    <Button
+        android:id="@+id/btnLoginAdmin"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="@color/dark"
+        android:text="@string/login"
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
+
+
+    <!--    <ProgressBar-->
+    <!--        android:id="@+id/progressbar"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_gravity="center"-->
+    <!--        android:visibility="gone"/>-->
+</RelativeLayout>
+

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="anganwadi">આંગણવાડી</string>
+    <string name="username">વપરાશકર્તા નામ</string>
+    <string name="password">પાસવર્ડ</string>
+    <string name="no_internet_connection">ઈન્ટરનેટ કનેક્શન નથી.....</string>
+    <string name="date_label">તારીખ</string>
+    <string name="food_label">ખોરાક</string>
+    <string name="students_list">વિદ્યાર્થી યાદી</string>
+    <string name="no_students_added">કોઈ વિદ્યાર્થી ઉમેરાયો નથી!</string>
+    <string name="delete_student_confirm">શું તમે ખરેખર આ વિદ્યાર્થીને કાઢી નાખવા માંગો છો?</string>
+    <string name="delete">કાઢી નાખો</string>
+    <string name="no_staff_added">કોઈ સ્ટાફ ઉમેરાયેલ નથી!</string>
+    <string name="select_profile_picture">કૃપા કરીને પ્રોફાઇલ ફોટો પસંદ કરો</string>
+    <string name="image_upload_success">છબી સફળતાપૂર્વક અપલોડ થઈ ગઈ</string>
+    <string name="image_upload_failed">છબી અપલોડ કરવામાં નિષ્ફળતા આવી</string>
+    <string name="user_data_not_found">વપરાશકર્તા ડેટા મળ્યો નથી.</string>
+    <string name="failed_to_load_user_data">વપરાશકર્તા ડેટા લોડ કરવામાં નિષ્ફળતા આવી.</string>
+    <string name="failed_to_retrieve_student_data">વિદ્યાર્થી ડેટા મેળવવામાં નિષ્ફળતા આવી</string>
+    <string name="failed_to_retrieve_staff_data">સ્ટાફ ડેટા મેળવવામાં નિષ્ફળતા આવી</string>
+    <string name="all_fields_must_be_filled">બધા ફીલ્ડ ભરવા જરૂરી છે</string>
+    <string name="failed_to_delete_student">વિદ્યાર્થીને કાઢી નાખવામાં નિષ્ફળતા આવી</string>
+
+    <string name="delete_staff_confirm">શું તમે ખરેખર આ સ્ટાફને કાઢી નાખવા માંગો છો?</string>
+    <string name="no_nutrition_data">કોઈ પોષણ ડેટા ઉપલબ્ધ નથી</string>
+    <string name="select_blood_group">તમારું રક્ત જૂથ પસંદ કરો</string>
+    <string name="best_place_child_education">બાળકની શિક્ષા માટે શ્રેષ્ઠ સ્થાન</string>
+    <string name="reset_link_sent">રીસેટ લિંક મોકલાઈ ગઈ છે.</string>
+    <string name="reset_link_failed">લિંક મોકલી શકાયું નથી, કૃપા કરીને મેલ તપાસો.</string>
+    <string name="failed_to_retrieve_data">ડેટા લાવવા નિષ્ફળ</string>
+    <string name="student_deleted_success">વિદ્યાર્થી સફળતાપૂર્વક કાઢી નાખ્યો</string>
+    <string name="student_delete_failed">વિદ્યાર્થી કાઢવામાં નિષ્ફળ</string>
+    <string name="please_enter_food">કૃપા કરીને ખોરાકનું નામ દાખલ કરો</string>
+    <string name="nutrition_data_added">%1$s માટે પોષણ માહિતી ઉમેરાઈ</string>
+    <string name="nutrition_data_updated">%1$s માટે પોષણ માહિતી અપડેટ થઈ</string>
+    <string name="nutrition_data_update_failed">પોષણ માહિતી અપડેટ કરવામાં નિષ્ફળ: %1$s</string>
+    <string name="sign_in_user">યુઝર તરીકે સાઇન ઇન કરો</string>
+    <string name="sign_in_admin">એડમિન તરીકે સાઇન ઇન કરો</string>
+    <string name="profile_name_default">શિક્ષકનું નામ</string>
+    <string name="profile_age">ઉંમર: %1$s</string>
+    <string name="profile_qualification">લાયકાત: %1$s</string>
+    <string name="profile_gender">લિંગ: %1$s</string>
+    <string name="profile_city">શહેર: %1$s</string>
+    <string name="profile_phone">ફોન: %1$s</string>
+    <string name="not_available">ઉપલબ્ધ નથી</string>
+    <string name="forgot_password">પાસવર્ડ ભૂલી ગયા?</string>
+    <string name="dont_have_account">એકાઉન્ટ નથી? નોંધણી કરો</string>
+    <string name="registration_heading">નોંધણી</string>
+    <string name="login_heading">લૉગિન</string>
+    <string name="register_heading">નોંધણી</string>
+    <string name="dash">-</string>
+    <string name="welcome_to_childopedia">ચાઇલ્ડોપીડિયા માં આપનું સ્વાગત છે</string>
+    <string name="splashscreen_text">તમારા બાળકોની આંગણવાડી</string>
+    <string name="please_enter_email">ઇમેઇલ દાખલ કરો</string>
+    <string name="please_enter_password">પાસવર્ડ દાખલ કરો</string>
+    <string name="login_successful">લૉગિન સફળ</string>
+    <string name="login_failed">લૉગિન નિષ્ફળ. પછી પ્રયાસ કરો.</string>
+    <string name="child_care_tips">બાળ સંભાળ ટિપ્સ</string>
+    <string name="login">લૉગિન</string>
+    <string name="add_student">વિદ્યાર્થી ઉમેરો</string>
+    <string name="app_name">આંગણવાડી</string>
+    <string name="select_language">ભાષા પસંદ કરો</string>
+    <string name="english">ઇંગ્લીશ</string>
+    <string name="hindi">હિન્દી</string>
+    <string name="gujarati">ગુજરાતી</string>
+    <string name="title_blood_donation">રક્તદાન</string>
+
+    <string name="blood_donation_title">રક્તદાન</string>
+    <string name="enter_name">કૃપા કરીને નામ દાખલ કરો</string>
+    <string name="enter_phone">10 અંકનો ફોન નંબર દાખલ કરો</string>
+    <string name="blood_registered">તમારા રક્ત ડેટા અમારી સાથે નોંધાયો છે</string>
+    <string name="all_fields_required">બધા ફીલ્ડ જરૂરી છે.</string>
+    <string name="staff_added_success">સ્ટાફ સફળતાપૂર્વક ઉમેરાયો</string>
+    <string name="name_hint">નામ દાખલ કરો</string>
+    <string name="age_hint">ઉંમર દાખલ કરો</string>
+    <string name="qualification_hint">યોગ્યતા દાખલ કરો</string>
+    <string name="email_hint">ઇમેઇલ દાખલ કરો</string>
+    <string name="phone_hint">ફોન નંબર દાખલ કરો</string>
+    <string name="city_hint">શહેર દાખલ કરો</string>
+    <string name="reports_title">રિપોર્ટ્સ</string>
+    <string name="fetching_data">ડેટા લાવી રહ્યો છે</string>
+    <string name="student_data_empty">વિદ્યાર્થી ડેટા ખાલી છે</string>
+    <string name="data_fetch_failed">ડેટા મેળવવામાં નિષ્ફળ</string>
+    <string name="reset_password">પાસવર્ડ રીસેટ કરો</string>
+    <string name="enter_your_email">તમારો ઇમેઇલ દાખલ કરો</string>
+    <string name="send_reset_link">રીસેટ લિંક મોકલો</string>
+    <string name="add_nutrition">પોષણ ઉમેરો</string>
+    <string name="default_student_name">જોન ડો</string>
+    <string name="food_khichdi">ખીચડી</string>
+    <string name="food_kathol">કથોલ</string>
+    <string name="food_other">અન્ય - નીચે દર્શાવો</string>
+
+
+    <string name="enter_password">પાસવર્ડ દાખલ કરો</string>
+    <string name="reenter_password">પાસવર્ડ ફરી દાખલ કરો</string>
+    <string name="dashboard">ડેશબોર્ડ</string>
+    <string name="logout">લૉગઆઉટ</string>
+    <string name="centers">કેન્દ્રો</string>
+    <string name="nutrition">પોષણ</string>
+    <string name="reports">અહેવાલ</string>
+    <string name="news">સમાચાર</string>
+    <string name="child_care">બાળ સંભાળ</string>
+    <string name="blood_donation">રક્તદાન</string>
+    <string name="profile">પ્રોફાઇલ</string>
+
+    <string name="name">નામ</string>
+    <string name="email">ઈમેલ</string>
+
+    <string name="phone">ફોન</string>
+    <string name="enter_city">તમારું શહેર દાખલ કરો</string>
+
+    <string name="select_gender">તમારું લિંગ પસંદ કરો</string>
+    <string name="enter_other_nutrition">કસ્ટમ ખોરાક દાખલ કરો</string>
+    <string name="submit">સબમિટ કરો</string>
+    <string name="male">પુરુષ</string>
+    <string name="female">સ્ત્રી</string>
+    <string name="other">અન્ય</string>
+    <string name="student_added_success">વિદ્યાર્થી સફળતાપૂર્વક ઉમેરાયો!</string>
+    <string name="staff_list">સ્ટાફની યાદી</string>
+    <string name="no_staff_found">કોઈ સ્ટાફ મળ્યો નથી</string>
+
+    <string name="profile_picture_updated">પ્રોફાઇલ ચિત્ર સફળતાપૂર્વક અપડેટ થયું</string>
+    <string name="profile_update_failed">પ્રોફાઇલ અપડેટ કરવામાં નિષ્ફળ</string>
+    <string name="profile_updated_success">પ્રોફાઇલ સફળતાપૂર્વક અપડેટ થઈ</string>
+
+    <string name="logged_out">લોગ આઉટ થયું</string>
+    <string name="full_name">પૂરું નામ</string>
+
+    <string name="nutrition_image">છબી</string>
+
+
+
+
+    <string name="notice">સૂચના</string>
+    <string name="loading_notice">સૂચના લોડ થઈ રહી છે...</string>
+    <string name="no_teacher_info">શિક્ષકની માહિતી મળી નથી</string>
+    <string name="teacher_information">શિક્ષકની માહિતી</string>
+    <string name="student_details">વિદ્યાર્થીની વિગતો</string>
+    <string name="blood_details">રક્તની વિગતો</string>
+    <string name="blood_donation_details">રક્તદાનની વિગતો</string>
+    <string name="no_blood_donors">કોઈ રક્તદાતા મળ્યા નથી</string>
+    <string name="notice_management">સૂચના વ્યવસ્થાપન</string>
+    <string name="send_notice">સૂચના મોકલો</string>
+    <string name="sent_notices_history">મોકલેલ સૂચનાઓનો ઇતિહાસ</string>
+
+
+    <string name="student_nutrition_data">વિદ્યાર્થી પોષણ માહિતી</string>
+    <string name="nutrition_date">પોષણ તારીખ</string>
+    <string name="food_items">ખોરાકની વસ્તુઓ</string>
+    <!-- Validation -->
+    <string name="name_min_length">નામ ઓછામાં ઓછા 2 અક્ષરનું હોવું જોઈએ.</string>
+    <string name="phone_length_error">ફોન નંબર 10 અંકનો હોવો જોઈએ.</string>
+    <string name="phone_exists_error">આ ફોન નંબર પહેલેથી જ અસ્તિત્વમાં છે. કૃપા કરીને નવો નંબર દાખલ કરો.</string>
+
+
+    <string name="update">અપડેટ કરો</string>
+
+    <string name="new_notice">નવી સૂચના</string>
+    <string name="new_notice_msg">એડમિન તરફથી નવી સૂચના આવી છે!</string>
+
+    <string name="upload_photo">ફોટો અપલોડ કરો</string>
+
+    <string name="choose_from_gallery">ગેલેરીમાંથી પસંદ કરો</string>
+    <string name="take_photo">ફોટો લો</string>
+    <string name="cancel_action">રદ કરો</string>
+    <string name="choose_media">મીડિયા પસંદ કરો</string>
+    <string name="go_to_settings">સેટિંગ્સમાં જાઓ</string>
+    <string name="permission_msg">પ્રોફાઇલ પિક્ચર માટે આ પરવાનગી જરૂરી છે. કૃપા કરીને એપ સેટિંગ્સમાં પરવાનગી આપો.</string>
+    <string name="loading_data">ડેટા લોડ થઈ રહ્યું છે</string>
+    <string name="name_required">નામ જરૂરી છે</string>
+    <string name="email_required">ઈમેલ જરૂરી છે</string>
+    <string name="create_password">કૃપા કરીને પાસવર્ડ બનાવો</string>
+    <string name="retype_password">પાસવર્ડ ફરીથી લખો</string>
+    <string name="phone_required">ફોન નંબર જરૂરી છે</string>
+    <string name="city_required">શહેર જરૂરી છે</string>
+    <string name="gender_required">કૃપા કરીને તમારું લિંગ પસંદ કરો</string>
+    <string name="email_password_required">કૃપા કરીને ઈમેલ અને પાસવર્ડ દાખલ કરો.</string>
+    <string name="registration_success">રજિસ્ટ્રેશન સફળ</string>
+    <string name="registration_failed">રજિસ્ટ્રેશન નિષ્ફળ: </string>
+    <string name="select_profile_pic">પ્રોફાઇલ પિક્ચર પસંદ કરો</string>
+    <string name="msg_logout">શું તમે ખરેખર લોગઆઉટ કરવા માંગો છો?</string>
+    <string name="total_students">કુલ વિદ્યાર્થીઓ : %1$d</string>
+    <string name="total_staff">કુલ સ્ટાફ : %1$d</string>
+    <string name="add_staff">સ્ટાફ ઉમેરો</string>
+    <string name="student_data">વિદ્યાર્થી માહિતી</string>
+    <string name="dialog_title_confirm">શું તમને ખાતરી છે?</string>
+    <string name="yes">હા</string>
+    <string name="no">ના</string>
+    <string name="father_full_name">પિતાનું પૂરું નામ</string>
+    <string name="mother_full_name">માતાનું પૂરું નામ</string>
+    <string name="add_staff_qualification">સ્ટાફની લાયકાત</string>
+    <string name="enter_staff_qualification">સ્ટાફની લાયકાત દાખલ કરો</string>
+    <string name="register">રજીસ્ટર કરો</string>
+    <string-array name="childTips">
+        <item>તમારા બાળકનું આત્મ-સમ્માન વધારવું</item>
+        <item>બાળકોના સારા કામને ઓળખો</item>
+        <item>સીમાઓ નક્કી કરો અને શિસ્તમાં સતત રહો</item>
+        <item>તમારા બાળકો માટે સમય કાઢો</item>
+        <item>સંવાદને પ્રથમસ્થાન આપો</item>
+        <item>લવચીક રહો અને તમારી પેરેન્ટિંગ સ્ટાઇલને એડજસ્ટ કરો</item>
+        <item>સારો રોલ મોડલ બનવો</item>
+        <item>તમારું પ્રેમ બિનશરતી બતાવો</item>
+        <item>પેરેન્ટ તરીકે તમારી જરૂરિયાતો અને મર્યાદાઓ જાણો</item>
+        <item>તમારા બાળકને નિર્ણય લેવાનો વિકલ્પ આપો</item>
+        <item>નવજાતમાં ખોરાકની આદતોમાં કોઈપણ ફેરફાર પર ધ્યાન આપો</item>
+    </string-array>
+</resources>

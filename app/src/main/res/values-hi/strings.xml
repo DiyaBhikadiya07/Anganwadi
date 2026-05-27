@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="anganwadi">आंगनवाड़ी</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="password">पासवर्ड</string>
+    <string name="no_internet_connection">इंटरनेट कनेक्शन नहीं है.....</string>
+    <string name="date_label">तारीख</string>
+    <string name="food_label">भोजन</string>
+    <string name="students_list">छात्र सूची</string>
+    <string name="no_students_added">कोई छात्र जोड़ा नहीं गया!</string>
+    <string name="delete_student_confirm">क्या आप सुनिश्चित हैं कि आप इस छात्र को हटाना चाहते हैं?</string>
+    <string name="delete">हटाएँ</string>
+    <string name="student_data">छात्र जानकारी</string>
+    <string name="no_staff_added">कोई स्टाफ जोड़ा नहीं गया!</string>
+    <string name="delete_staff_confirm">क्या आप वाकई इस स्टाफ को हटाना चाहते हैं?</string>
+    <string name="failed_to_retrieve_data">डेटा प्राप्त करने में असफल</string>
+    <string name="no_nutrition_data">कोई पोषण डेटा उपलब्ध नहीं है</string>
+    <string name="select_blood_group">अपना रक्त समूह चुनें</string>
+    <string name="best_place_child_education">बच्चों की शिक्षा के लिए सर्वश्रेष्ठ स्थान</string>
+    <string name="reset_link_sent">रीसेट लिंक भेज दिया गया है।</string>
+    <string name="reset_link_failed">लिंक नहीं भेजा गया, कृपया ईमेल जांचें।</string>
+
+    <string name="student_deleted_success">छात्र सफलतापूर्वक हटा दिया गया</string>
+    <string name="student_delete_failed">छात्र को हटाने में विफल</string>
+    <string name="please_enter_food">कृपया भोजन का नाम दर्ज करें</string>
+    <string name="nutrition_data_added">पोषण डेटा %1$s के लिए जोड़ा गया</string>
+    <string name="nutrition_data_updated">पोषण डेटा %1$s के लिए अपडेट किया गया</string>
+    <string name="nutrition_data_update_failed">पोषण डेटा अपडेट करने में विफल: %1$s</string>
+    <string name="food_khichdi">खिचड़ी</string>
+    <string name="food_kathol">कथोल</string>
+    <string name="food_other">अन्य - नीचे निर्दिष्ट करें</string>
+
+    <string name="profile_picture_updated">प्रोफ़ाइल चित्र सफलतापूर्वक अपडेट किया गया</string>
+    <string name="profile_update_failed">प्रोफ़ाइल अपडेट करने में विफल</string>
+    <string name="profile_updated_success">प्रोफ़ाइल सफलतापूर्वक अपडेट की गई</string>
+    <string name="msg_logout">क्या आप वाकई लॉगआउट करना चाहते हैं?</string>
+
+    <string name="logged_out">लॉग आउट हो गया</string>
+    <string name="full_name">पूरा नाम</string>
+
+    <string name="nutrition_image">छवि</string>
+    <string name="upload_photo">फोटो अपलोड करें</string>
+
+
+    <string name="forgot_password">पासवर्ड भूल गए?</string>
+    <string name="dont_have_account">खाता नहीं है? पंजीकरण करें</string>
+    <string name="registration_heading">पंजीकरण</string>
+    <string name="login_heading">लॉग इन</string>
+    <string name="register_heading">पंजीकरण</string>
+    <string name="dash">-</string>
+    <string name="welcome_to_childopedia">चाइल्डोपीडिया में आपका स्वागत है</string>
+    <string name="splashscreen_text">आपके बच्चों की आंगनवाड़ी</string>
+    <string name="please_enter_email">कृपया ईमेल दर्ज करें</string>
+    <string name="please_enter_password">कृपया पासवर्ड दर्ज करें</string>
+    <string name="login_successful">लॉगिन सफल</string>
+    <string name="login_failed">लॉगिन असफल। बाद में प्रयास करें।</string>
+    <string name="child_care_tips">बाल देखभाल सुझाव</string>
+    <string name="login">लॉगिन</string>
+    <string name="add_student">छात्र जोड़ें</string>
+    <string name="add_nutrition">पोषण जोड़ें</string>
+    <string name="default_student_name">जॉन डो</string>
+    <string name="choose_from_gallery">गैलरी से चुनें</string>
+    <string name="take_photo">फोटो लें</string>
+    <string name="cancel_action">रद्द करें</string>
+    <string name="choose_media">मीडिया चुनें</string>
+    <string name="go_to_settings">सेटिंग्स में जाएँ</string>
+    <string name="permission_msg">प्रोफ़ाइल तस्वीर के लिए यह अनुमति आवश्यक है। कृपया ऐप सेटिंग्स में अनुमति दें।</string>
+    <string name="loading_data">डेटा लोड हो रहा है</string>
+    <string name="name_required">नाम आवश्यक है</string>
+    <string name="email_required">ईमेल आवश्यक है</string>
+    <string name="create_password">कृपया पासवर्ड बनाएं</string>
+    <string name="retype_password">पासवर्ड पुनः दर्ज करें</string>
+    <string name="phone_required">फोन नंबर आवश्यक है</string>
+    <string name="city_required">शहर आवश्यक है</string>
+    <string name="gender_required">कृपया अपना लिंग चुनें</string>
+    <string name="email_password_required">कृपया ईमेल और पासवर्ड दर्ज करें।</string>
+    <string name="registration_success">पंजीकरण सफल</string>
+    <string name="registration_failed">पंजीकरण विफल</string>
+    <string name="select_profile_pic">प्रोफ़ाइल तस्वीर चुनें</string>
+    <string name="app_name">आंगनवाड़ी</string>
+    <string name="select_language">भाषा चुनें</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="hindi">हिंदी</string>
+    <string name="gujarati">गुजराती</string>
+    <string name="blood_donation_title">रक्तदान</string>
+    <string name="enter_name">कृपया नाम दर्ज करें</string>
+    <string name="enter_phone">10 अंकों का फोन नंबर दर्ज करें</string>
+    <string name="blood_registered">आपका रक्त डेटा हमारे साथ पंजीकृत हो गया है!</string>
+    <string name="all_fields_required">सभी फ़ील्ड आवश्यक हैं।</string>
+    <string name="staff_added_success">स्टाफ सफलतापूर्वक जोड़ा गया!</string>
+    <string name="title_blood_donation">रक्तदान</string>
+    <string name="sign_in_user">यूज़र के रूप में साइन इन करें</string>
+    <string name="sign_in_admin">एडमिन के रूप में साइन इन करें</string>
+    <string name="name_hint">नाम दर्ज करें</string>
+    <string name="age_hint">उम्र दर्ज करें</string>
+    <string name="qualification_hint">योग्यता दर्ज करें</string>
+    <string name="email_hint">ईमेल दर्ज करें</string>
+    <string name="phone_hint">फोन नंबर दर्ज करें</string>
+    <string name="city_hint">शहर दर्ज करें</string>
+    <string name="reports_title">रिपोर्ट्स</string>
+    <string name="fetching_data">डेटा लाया जा रहा है</string>
+    <string name="food_items">खाद्य आइटम</string>
+    <string name="student_data_empty">छात्र डेटा खाली है</string>
+    <string name="data_fetch_failed">डेटा प्राप्त करने में विफल</string>
+    <string name="reset_password">पासवर्ड रीसेट करें</string>
+    <string name="enter_your_email">अपना ईमेल दर्ज करें</string>
+    <string name="send_reset_link">रीसेट लिंक भेजें</string>
+    <string name="total_students">कुल छात्र : %1$d</string>
+    <string name="total_staff">कुल कर्मचारी : %1$d</string>
+
+
+    <string name="register">पंजीकरण</string>
+    <string name="dashboard">डैशबोर्ड</string>
+    <string name="logout">लॉग आउट</string>
+    <string name="centers">केंद्र</string>
+    <string name="nutrition">पोषण</string>
+    <string name="reports">रिपोर्ट</string>
+    <string name="news">समाचार</string>
+    <string name="child_care">बाल देखभाल</string>
+    <string name="blood_donation">रक्तदान</string>
+    <string name="profile">प्रोफ़ाइल</string>
+
+    <string name="name">नाम</string>
+    <string name="email">ईमेल</string>
+    <string name="enter_password">पासवर्ड दर्ज करें</string>
+    <string name="reenter_password">पासवर्ड फिर से दर्ज करें</string>
+    <string name="phone">फ़ोन</string>
+    <string name="enter_city">अपना शहर दर्ज करें</string>
+
+    <string name="select_gender">अपना लिंग चुनें</string>
+    <string name="male">पुरुष</string>
+    <string name="female">महिला</string>
+    <string name="other">अन्य</string>
+    <string name="profile_name_default">शिक्षक का नाम</string>
+
+    <string name="profile_age">आयु: %1$s</string>
+    <string name="profile_qualification">योग्यता: %1$s</string>
+    <string name="profile_gender">लिंग: %1$s</string>
+    <string name="profile_city">शहर: %1$s</string>
+    <string name="profile_phone">फोन: %1$s</string>
+    <string name="not_available">उपलब्ध नहीं</string>
+    <string name="select_profile_picture">कृपया प्रोफ़ाइल चित्र चुनें</string>
+    <string name="image_upload_success">छवि सफलतापूर्वक अपलोड हो गई</string>
+    <string name="image_upload_failed">छवि अपलोड विफल रहा</string>
+    <string name="user_data_not_found">उपयोगकर्ता का डेटा नहीं मिला।</string>
+    <string name="failed_to_load_user_data">उपयोगकर्ता डेटा लोड करने में विफल।</string>
+    <string name="failed_to_retrieve_student_data">छात्र डेटा प्राप्त करने में विफल</string>
+    <string name="failed_to_retrieve_staff_data">स्टाफ डेटा प्राप्त करने में विफल</string>
+    <string name="all_fields_must_be_filled">सभी फ़ील्ड भरना अनिवार्य है</string>
+    <string name="failed_to_delete_student">छात्र को हटाने में विफल</string>
+
+    <string name="update">अपडेट करें</string>
+    <string name="dialog_title_confirm">क्या आप सुनिश्चित हैं?</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+
+    <string name="add_staff_qualification">स्टाफ की योग्यता</string>
+    <string name="enter_staff_qualification">स्टाफ की योग्यता दर्ज करें</string>
+    <string name="student_added_success">छात्र सफलतापूर्वक जोड़ा गया!</string>
+    <string name="student_nutrition_data">छात्र पोषण जानकारी</string>
+    <string name="nutrition_date">पोषण तिथि :</string>
+    <string name="staff_list">स्टाफ सूची</string>
+    <string name="add_staff">स्टाफ जोड़ें</string>
+    <string name="no_staff_found">कोई स्टाफ नहीं मिला</string>
+    <!-- Validation -->
+    <string name="name_min_length">नाम कम से कम 2 अक्षरों का होना चाहिए।</string>
+    <string name="phone_length_error">फोन नंबर 10 अंकों का होना चाहिए।</string>
+    <string name="phone_exists_error">यह फ़ोन नंबर पहले से मौजूद है। कृपया नया नंबर दर्ज करें।.</string>
+    <string name="enter_other_nutrition">कस्टम भोजन दर्ज करें</string>
+    <string name="submit">सबमिट करें</string>
+
+    <string name="notice">सूचना</string>
+    <string name="loading_notice">सूचना लोड हो रही है...</string>
+    <string name="no_teacher_info">शिक्षक की जानकारी नहीं मिली</string>
+    <string name="teacher_information">शिक्षक की जानकारी</string>
+
+    <string name="student_details">छात्र का विवरण</string>
+    <string name="blood_details">रक्त विवरण</string>
+    <string name="blood_donation_details">रक्तदान विवरण</string>
+    <string name="no_blood_donors">कोई रक्तदाता नहीं मिला</string>
+    <string name="notice_management">सूचना प्रबंधन</string>
+    <string name="send_notice">सूचना भेजें</string>
+    <string name="sent_notices_history">भेजी गई सूचनाओं का इतिहास</string>
+
+
+        <string name="father_full_name">पिता का पूरा नाम</string>
+    <string name="mother_full_name">माता का पूरा नाम</string>
+
+
+    <string name="new_notice">नई सूचना</string>
+    <string name="new_notice_msg">प्रशासन की ओर से नई सूचना आई है!</string>
+
+    <string-array name="childTips">
+        <item>अपने बच्चे का आत्म-सम्मान बढ़ाना</item>
+        <item>बच्चों के अच्छे काम को पहचानें</item>
+        <item>सीमाएं निर्धारित करें और अनुशासन में सुसंगत रहें</item>
+        <item>अपने बच्चों के लिए समय निकालें</item>
+        <item>संचार को प्राथमिकता दें</item>
+        <item>लचीला रहें और अपनी पालन-पोषण शैली को समायोजित करें</item>
+        <item>एक अच्छा रोल मॉडल बनें</item>
+        <item>अपने प्यार को बिना शर्त दिखाएं</item>
+        <item>एक माता-पिता के रूप में अपनी जरूरतों और सीमाओं को जानें</item>
+        <item>अपने बच्चे को निर्णय लेना सिखाने के लिए विकल्प दें</item>
+        <item>नवजात शिशुओं में खाने की आदतों में किसी भी बदलाव पर ध्यान दें</item>
+    </string-array>
+</resources>

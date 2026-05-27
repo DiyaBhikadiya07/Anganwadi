@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="anganwadi">Anganwadi</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Dont have an Account? Register</string>
+    <string name="registration_heading">REGISTRATION</string>
+    <string name="login_heading">LOG IN</string>
+    <string name="register_heading">REGISTRATION</string>
+    <string name="dash">-</string>
+    <string name="welcome_to_childopedia">Welcome to Childopedia</string>
+    <string name="splashscreen_text">Apke Bachcho Ki Anganwadi</string>
+    <string name="msg_logout">Are you sure you want to logout?</string>
+    <string name="please_enter_email">Please enter Email</string>
+    <string name="please_enter_password">Please enter Password</string>
+    <string name="login_successful">Login Successful</string>
+    <string name="login_failed">Login Failed. Please try again later.</string>
+    <string name="child_care_tips">Child Care Tips</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="error_loading_profile">Map</string>
+
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="send_reset_link">Send Reset Link</string>
+    <string name="no_internet_connection">No Internet connection.....</string>
+    <string name="date_label">Date</string>
+    <string name="food_label">Food</string>
+    <string name="students_list">Students List</string>
+    <string name="no_students_added">No students added!</string>
+    <string name="delete_student_confirm">Are you sure you want to delete this student?</string>
+    <string name="delete">Delete</string>
+    <string name="delete_staff_confirm">Are you sure you want to delete this Staff?</string>
+
+    <string name="best_place_child_education">Best place for child education</string>
+    <string name="reset_link_sent">Reset Link is sent.</string>
+    <string name="reset_link_failed">Link is not sent, check email.</string>
+    <string name="total_students">Total Students : %1$d</string>
+    <string name="total_staff">Total Staff : %1$d</string>
+    <string name="add_student">Add Students</string>
+    <string name="add_staff">Add Staff</string>
+
+
+
+    <string name="login">Login</string>
+    <string name="app_name">Anganwadi</string>
+    <string name="select_language">Select Language</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="gujarati">Gujarati</string>
+    <string name="blood_donation_title">Blood Donation</string>
+    <string name="enter_name">Please Enter Name</string>
+    <string name="enter_phone">Enter 10 digit Phone Number</string>
+    <string name="blood_registered">Your Blood Data Registered With us!</string>
+    <string name="all_fields_required">All fields are required.</string>
+    <string name="staff_added_success">Staff Added Successfully!</string>
+    <string name="name_hint">Enter Name</string>
+    <string name="age_hint">Enter Age</string>
+    <string name="qualification_hint">Enter Qualification</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="phone_hint">Enter Phone Number</string>
+    <string name="city_hint">Enter City</string>
+    <string name="register">Register</string>
+    <string name="student_added_success">Student added successfully!</string>
+    <!-- Validation -->
+    <string name="name_min_length">Name must be at least 2 characters.</string>
+    <string name="phone_length_error">Phone number must be 10 digits long.</string>
+    <string name="reports_title">Reports</string>
+    <string name="fetching_data">Fetching data...</string>
+    <string name="food_items">Food Items</string>
+    <string name="student_data_empty">Student Data is Empty</string>
+    <string name="data_fetch_failed">Failed to retrieve data</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="centers">Centers</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="reports">Reports</string>
+    <string name="news">News</string>
+    <string name="child_care">Child Care</string>
+    <string name="blood_donation">Blood Donation</string>
+    <string name="profile">Profile</string>
+    <string name="student_nutrition_data">Student Nutrition Data</string>
+    <string name="nutrition_date">Nutrition Date :</string>
+    <string name="staff_list">Staff List</string>
+    <string name="add_nutrition">Add Nutrition</string>
+    <string name="no_staff_found">No Staff Found</string>
+    <string name="no_staff_added">No Staff Added!</string>
+    <string name="default_student_name">John Doe</string>
+    <string name="enter_other_nutrition">Enter other nutrition</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_exists_error">This phone number already exists. Please enter a new number.</string>
+    <string name="email">Email</string>
+    <string name="reenter_password">Re-enter Password</string>
+    <string name="phone">Phone</string>
+    <string name="enter_city">Enter your city</string>
+    <string name="select_gender">Select Your Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="update">Update</string>
+    <string name="logout">Logout</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="dialog_title_confirm">Are you sure?</string>
+    <string name="title_blood_donation">Blood Donation</string>
+    <string name="sign_in_user">Sign In As USER</string>
+    <string name="sign_in_admin">Sign In As ADMIN</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="father_full_name">Father Full Name</string>
+    <string name="mother_full_name">Mother FUll Name</string>
+    <string name="add_staff_qualification">Staff Qualification</string>
+    <string name="enter_staff_qualification">Enter Staff Qualification</string>
+
+    <!-- RegisterActivity specific -->
+    <string name="choose_from_gallery">Choose from Gallery</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="choose_media">Choose a Media</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="permission_msg">This permission is required for Profile Pic. Please grant the permission in the app settings.</string>
+    <string name="name_required">Name is Required</string>
+    <string name="email_required">Email is Required</string>
+    <string name="create_password">Please Create your Password</string>
+    <string name="retype_password">Retype your password</string>
+    <string name="phone_required">Phone Number is required</string>
+    <string name="city_required">City is required</string>
+    <string name="gender_required">Please select your gender</string>
+    <string name="email_password_required">Please enter Email and Password.</string>
+    <string name="registration_success">Registration Success</string>
+    <string name="registration_failed">Registration failed: </string>
+    <string name="select_profile_pic">Select profile picture</string>
+    <string name="no_nutrition_data">No nutrition data available</string>
+    <string name="select_blood_group">Select Your Blood Group</string>
+    <string name="profile_name_default">Teacher Name</string>
+
+    <string name="profile_age">Age: %1$s</string>
+    <string name="profile_qualification">Qualification: %1$s</string>
+    <string name="profile_gender">Gender: %1$s</string>
+    <string name="profile_city">City: %1$s</string>
+    <string name="profile_phone">Phone: %1$s</string>
+    <string name="not_available">N/A</string>
+
+
+
+    <string name="notice">Notice</string>
+    <string name="loading_notice">Loading notice...</string>
+    <string name="no_teacher_info">No teacher information found</string>
+    <string name="teacher_information">Teacher Information</string>
+    <string name="blood_donation_details">Blood Donation Details</string>
+    <string name="no_blood_donors">No blood donors found</string>
+    <string name="notice_management">Notice Management</string>
+    <string name="send_notice">Send Notice</string>
+    <string name="sent_notices_history">Sent Notices History</string>
+
+    <string name="new_notice">New Notice</string>
+    <string name="new_notice_msg">A new notice has arrived from the admin!</string>
+
+
+    <string name="student_details">Student Details</string>
+
+
+    <string name="failed_to_retrieve_data">Failed to retrieve data</string>
+    <string name="student_deleted_success">Student deleted successfully</string>
+    <string name="student_delete_failed">Failed to delete student</string>
+    <string name="please_enter_food">Please enter the food name</string>
+    <string name="nutrition_data_added">Nutrition data added for %1$s</string>
+    <string name="nutrition_data_updated">Nutrition data updated for %1$s</string>
+    <string name="nutrition_data_update_failed">Failed to update nutrition data: %1$s</string>
+    <string name="food_khichdi">Khichdi</string>
+    <string name="food_kathol">Kathol</string>
+    <string name="food_other">Other - Specify below</string>
+    <string name="select_profile_picture">Please select a profile picture</string>
+    <string name="image_upload_success">Image uploaded successfully</string>
+    <string name="image_upload_failed">Image upload failed</string>
+    <string name="user_data_not_found">User data not found.</string>
+    <string name="failed_to_load_user_data">Failed to load user data.</string>
+    <string name="failed_to_retrieve_student_data">Failed to retrieve student data</string>
+    <string name="failed_to_retrieve_staff_data">Failed to retrieve staff data</string>
+    <string name="all_fields_must_be_filled">All fields must be filled</string>
+    <string name="failed_to_delete_student">Failed to delete student</string>
+
+    <string name="loading_data">Loading data...</string>
+    <string name="profile_picture_updated">Profile picture updated successfully</string>
+    <string name="profile_update_failed">Failed to update profile</string>
+    <string name="profile_updated_success">Profile updated successfully</string>
+
+    <string name="logged_out">Logged Out</string>
+    <string name="nutrition_image">Image</string>
+
+    <string name="student_data">Student Data</string>
+    <string name="blood_details">Blood Details</string>
+
+    <string name="upload_photo">Upload Photo</string>
+
+    <string-array name="childTips">
+        <item>Boosting Your Child Self-Esteem</item>
+        <item>Catch Kids Being Good</item>
+        <item>Set Limits and Be Consistent With Your Discipline</item>
+        <item>Make Time for Your Kids</item>
+        <item>Make Communication a Priority</item>
+        <item>Be Flexible and Willing to Adjust Your Parenting Style</item>
+        <item>Be a Good Role Model</item>
+        <item>Show That Your Love Is Unconditional</item>
+        <item>Know Your Own Needs and Limitations as a Parent</item>
+        <item>Give your toddler choices to teach them to make decisions</item>
+        <item>Pay attention at any change in eating habits in newborns</item>
+    </string-array>
+</resources>

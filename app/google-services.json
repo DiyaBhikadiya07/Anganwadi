@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147347701295",
+    "project_id": "anganwadi-tdc",
+    "storage_bucket": "anganwadi-tdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147347701295:android:158022e04ae8948cbe50da",
+        "android_client_info": {
+          "package_name": "com.example.anganwadi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWLn8oRrzWxcz6E7U9VX_yaQBTgs9RY6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
